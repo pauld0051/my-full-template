@@ -37,3 +37,23 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+Here's something from the video. Firstly, let's add links to a readme file in md.
+
+[Want to read Facebook?](https://facebook.com)
+
+Try it... preview this page. 
+
+Now for headings. 
+
+# h1 
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+It is possible to use full html for things like image etc, but this is not usual for a readme. 
+
+Don't forget to save your readme, git add README.md (case sensitive), git commit -m "updated README.md file.", git push
+
